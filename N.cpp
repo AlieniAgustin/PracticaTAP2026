@@ -21,7 +21,7 @@ int main () {
         maxY = max(maxY, tempY);
     }
 
-    base = maxX - minX + 2;;
+    base = maxX - minX + 2;
     altura = maxY - minY + 2;
     perimetro = 2 * (base + altura);
 
